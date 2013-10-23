@@ -1,0 +1,8 @@
+{
+  "name": "CodeshipDeployTest",
+  "version": "0.0.1",
+  "author": "Modulus <support@modulus.io>",
+  "dependencies": {
+    "express" : "3.4.3"
+  }
+}
